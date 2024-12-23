@@ -4,4 +4,8 @@ df = spark.read.format("parquet") \
 
 # COMMAND ----------
 
-display(df)
+display(df) 
+
+# COMMAND ----------
+
+display(df) 
