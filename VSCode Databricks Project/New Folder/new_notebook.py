@@ -13,6 +13,4 @@ df = spark.read.parquet(file_path)
 # Show the dataframe
 df.show()
 
-display(df)
-
 #new comment
